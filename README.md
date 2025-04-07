@@ -54,4 +54,5 @@ Sou estudante de Engenharia de Software apaixonada por tecnologia, e estou estud
   <img src="https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif" alt="Java">
 </div>
 
+![Snake animation](https://github.com/mandypoli/mandypoli/blob/output/github-contribution-grid-snake.svg)
 
