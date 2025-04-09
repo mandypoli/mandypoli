@@ -47,12 +47,17 @@ Sou estudante de Engenharia de Software apaixonada por tecnologia, e estou estud
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mandypoli&repo=dio-lab-open-source&theme=panda&show_icons=true)](https://github.com/mandypoli/dio-lab-open-source.git)
 
-
-
-
 <div style="text-align: center;">
   <img src="https://media.tenor.com/B-qvdId4Q6EAAAAj/pixel-cat.gif" alt="Java">
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
