@@ -13,25 +13,26 @@ Sou estudante de Engenharia de Software apaixonada por tecnologia, e estou estud
 
 &nbsp;&nbsp;
 
-## Estudando 
+## Áreas de Interesse 
 
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: flex-start; margin: 0 auto; max-width: 500px;">
   <div style="text-align: center;">
     <strong>Front End</strong>
     <div style="margin-top: 10px;">
-      <a href="#"><img src="https://i.imgur.com/GYNCWlC.png" alt="JS" width="50"></a>
-    </div>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50"></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50"></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="50"></a>
+               
   </div>
   
   <div style="text-align: center;">
     <strong>Back-End</strong>
     <div style="display: flex; gap: 15px; margin-top: 10px;">
-      <a href="#"><img src="https://i.imgur.com/oxsaFs2.png" alt="Java" width="50"></a>
-      <a href="#"><img src="https://i.imgur.com/wWV37Mv.png" alt="Python" width="50"></a>
-      <a href="#"><img src="https://i.imgur.com/UL0xOco.png" alt="C" width="50"></a>
-    </div>
-  </div>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50"></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50"></a>
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50"></a>
+    
 </div>
 
 &nbsp;  
