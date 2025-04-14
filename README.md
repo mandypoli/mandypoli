@@ -57,17 +57,18 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandypoli&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-## Repositórios
+## Repositórios em destaque
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mandypoli&repo=dio-lab-open-source&theme=dracula&hide_border=true&show_icons=true)](https://github.com/mandypoli/dio-lab-open-source.git)
 
-
+## Atividade recente
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph.svg">
 </picture>
 
+💐🌸💮🏵️🌹🌺🌻🌼🌷
 <div style="text-align: center;">
   <img src="https://media.tenor.com/fAQ4mdg7iz4AAAAi/pixel-cat.gif" alt="Gif" min-width="20px" max-width="20px" width="200px">
 </div>
