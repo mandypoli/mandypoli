@@ -10,7 +10,7 @@
 
 <h3><strong>Contato</strong></h3>
 
-[<img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/mandypoli/)&emsp;[<img src="https://images.icon-icons.com/2873/PNG/512/instagram_pixel_logo_icon_181922.png" alt="Instagram" width="50" height="50">](https://www.instagram.com/amanndaop?igsh=MXdiZGVxZXo1aGluMQ==)&emsp;<a href="mailto:amandiholiv@gmail.com"><img src="https://images.icon-icons.com/2873/PNG/512/google_pixel_logo_icon_181921.png" width="50" height="50"></a>
+[<img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/amanda-pereira-ti/)&emsp;[<img src="https://images.icon-icons.com/2873/PNG/512/instagram_pixel_logo_icon_181922.png" alt="Instagram" width="50" height="50">](https://www.instagram.com/amanndaop?igsh=MXdiZGVxZXo1aGluMQ==)&emsp;<a href="mailto:amandiholiv@gmail.com"><img src="https://images.icon-icons.com/2873/PNG/512/google_pixel_logo_icon_181921.png" width="50" height="50"></a>
 
 <div align="center">
 
