@@ -6,7 +6,7 @@
 🌸 Cursando Engenharia de Software  
 🍁 Atualmente estudando linguagem Java e C  
 🍂 Próximos estudos: Python | Html e CSS   
-🌲 Interesse: Fullstack
+🌲 Interesse: Back-end | Fullstack
 
 <h3><strong>Contato</strong></h3>
 
@@ -17,7 +17,6 @@
 &nbsp;&nbsp;
 
 ## Áreas de Interesse 
-
 
 <div style="display: flex; justify-content: center; gap: 40px; align-items: flex-start; margin: 0 auto; max-width: 500px;">
   <div style="text-align: center;">
@@ -46,19 +45,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandypoli)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-## Status
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mandypoli&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandypoli&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-## Repositórios em destaque
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mandypoli&repo=dio-lab-open-source&theme=dracula&hide_border=true&show_icons=true)](https://github.com/mandypoli/dio-lab-open-source.git)
 
 ## Atividade recente
 <picture>
