@@ -3,12 +3,10 @@
 
 <strong> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="14px"> Bem-vindo ao meu perfil!</strong>    
 
-🌸 Cursando Engenharia de Software  
-🍁 Atualmente estudando linguagem Java e C  
-🍂 Próximos estudos: Python | Html e CSS   
-🌲 Interesse: Back-end | Fullstack
+⭐ Cursando **Engenharia de Software** ⭐    
+✨ **Interesse**: Cibersegurança ✨
 
-<h3><strong>Contato</strong></h3>
+<h3><strong>Contatos</strong></h3>
 
 [<img src="https://images.icon-icons.com/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/amanda-pereira-ti/)&emsp;[<img src="https://images.icon-icons.com/2873/PNG/512/instagram_pixel_logo_icon_181922.png" alt="Instagram" width="50" height="50">](https://www.instagram.com/amanndaop?igsh=MXdiZGVxZXo1aGluMQ==)&emsp;<a href="mailto:amandiholiv@gmail.com"><img src="https://images.icon-icons.com/2873/PNG/512/google_pixel_logo_icon_181921.png" width="50" height="50"></a>
 
@@ -16,37 +14,19 @@
 
 &nbsp;&nbsp;
 
-## Áreas de Interesse 
-
-<div style="display: flex; justify-content: center; gap: 40px; align-items: flex-start; margin: 0 auto; max-width: 500px;">
-  <div style="text-align: center;">
-    <strong>Front End</strong>
-    <div style="margin-top: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="50"></a>
-               
-  </div>
-  
-  <div style="text-align: center;">
-    <strong>Back-End</strong>
-    <div style="display: flex; gap: 15px; margin-top: 10px;">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50"></a>
-    
-</div>
-
-&nbsp;  
-*Estudando linguagem C e Java.*
-
-## Conhecimentos
+## skills
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandypoli)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## Atividade recente
+&nbsp;
+
+## atividade recente
+_(repositórios e commits)_
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandypoli/mandypoli/output/pacman-contribution-graph.svg">
